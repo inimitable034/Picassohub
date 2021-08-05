@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+##This is a project of an E-commerce website designed and built using REACT..Js for Paintings/Stencils/Wall-Arts/Sketches and other Art related works.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
